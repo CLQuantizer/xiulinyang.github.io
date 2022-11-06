@@ -1,6 +1,6 @@
 # main text of home
-title: John Doe
-bio: A Person who travels the world eating noodles
+title: Xiulin Yang
+bio: Trying to be a computational linguist
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -8,19 +8,19 @@ description: A blog about technology and stuff related
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/profile.jpg
+picture: assets/images/xiulin.jpg
 
 # your site color theme, true for dark theme, 
 # false to light theme, auto to switch with system.
-dark-theme: auto
+dark-theme: false
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
-resume: true
-resume-external: true
-resume-url: https://google.com/?q=my+resume
+CV: true
+CV-external: true
+CV-url: https://drive.google.com/file/d/1LUIagh7v2HfeR3AqXStxEPvTd-uvOOGv/view?usp=sharing
 
-url: https://sergiokopplin.github.io/indigo
+url: https://github.com/xiulinyang/xiulinyang.github.io
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
@@ -34,12 +34,12 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
-instagram: myinstagram
-linkedin: mylinkedin
-github: mygithub
-email: myemail@gmail.com
+# facebook: myfacebook
+# twitter: mytwitter
+# instagram: myinstagram
+linkedin: https://www.linkedin.com/in/xiulin-yang/
+github: https://github.com/xiulinyang
+email: xiulin.yang.compling@gmail.com
 
 authors:
   johndoe:
@@ -55,6 +55,7 @@ authors:
     picture: assets/images/james.jpg
     twitter: jamesfoster
 
+
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
 # normal = 560px / large = 810px
@@ -69,11 +70,11 @@ pagination:
   permalink: "/:num/" # pagination link that will be appended
 
 # if you don't need projects, comment the *projects* configs below
-projects: true
+projects: false
 
 # if you don't need "about" or "blog", comment them out below
 about: true
-blog: true
+blog: false
 
 # do you want to show the "read time" of the posts?
 read-time: true
@@ -88,7 +89,7 @@ related: true
 post-advance-links: [blog]
 
 # show author block at the end of a post ?
-show-author: true
+show-author: false
 
 # do you want some animations?
 animation: true
