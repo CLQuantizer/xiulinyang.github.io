@@ -16,9 +16,9 @@ dark-theme: false
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
-CV: true
-CV-external: true
-CV-url: https://drive.google.com/file/d/1LUIagh7v2HfeR3AqXStxEPvTd-uvOOGv/view?usp=sharing
+resume: true
+resume-external: true
+resume-url: https://drive.google.com/file/d/1LUIagh7v2HfeR3AqXStxEPvTd-uvOOGv/view?usp=sharing
 
 url: https://github.com/xiulinyang/xiulinyang.github.io
 # your url: https://USERNAME.github.io
@@ -38,7 +38,7 @@ disqus:
 # twitter: mytwitter
 # instagram: myinstagram
 linkedin: https://www.linkedin.com/in/xiulin-yang/
-github: https://github.com/xiulinyang
+github: mygithub
 email: xiulin.yang.compling@gmail.com
 
 authors:
