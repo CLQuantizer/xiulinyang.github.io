@@ -2,7 +2,6 @@
 title: About
 layout: page
 ---
-![Profile Image]{{ site.picture }}
 
 <p>My name is Xiulin Yang and I'm currently a second-year master's student learning Computational Linguistics at Saarland Unviersity. I'm also working in Professor Alexander's cookbook group doing coreference resoultion in recipes. </p>
 
